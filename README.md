@@ -100,6 +100,13 @@ All these and more have been analyzed and explained in this report for #mavenpiz
 
 #analytics #data #dataanalytics #powerbi #powerbidesktop #mavenpizzachallenge #datavisualization
 
+![image](https://github.com/user-attachments/assets/bf91aa4d-fe74-42f5-b121-44bed36c1648)
+![image](https://github.com/user-attachments/assets/9bbf0e27-a643-43d4-a12e-5adf850e5e28)
+![image](https://github.com/user-attachments/assets/7caa15a4-2c59-42ba-a249-45b232b1b016)
+
+
+
+
 
 
 https://app.powerbi.com/reportEmbed?reportId=e14177d0-84b5-4309-b2e3-bc3a3d70074d&autoAuth=true&ctid=aebbc012-6f19-49cf-90bd-c5bf4fdd9e4a
