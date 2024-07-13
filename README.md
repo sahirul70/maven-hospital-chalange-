@@ -1,2 +1,1 @@
-# maven-hospital-chalange-
-maven hospital chalange
+<iframe title="hospital chalange" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=e14177d0-84b5-4309-b2e3-bc3a3d70074d&autoAuth=true&ctid=aebbc012-6f19-49cf-90bd-c5bf4fdd9e4a" frameborder="0" allowFullScreen="true"></iframe>
